@@ -1,0 +1,19 @@
+.container {
+    margin-top: 45px;
+}
+
+.site-title a:hover {
+    border-bottom: none;
+    color: black;
+    background-color: none;
+}
+
+a {
+    color: #1975fc;
+}
+
+a:hover {
+    color: #1975fc;
+    background-color: yellow;
+    border-bottom: 2px solid #1975fc;
+}

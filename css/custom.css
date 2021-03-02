@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-    color: black;
+    color: black !important;
     background-color: yellow;
     border-bottom: 2px solid #1975fc;
 }

@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://venkateshdb.github.io/test/about/</loc>
+    <loc>https://venkateshdb.github.io/about/</loc>
     <lastmod>2021-03-02T14:40:56+05:30</lastmod>
   </url><url>
-    <loc>https://venkateshdb.github.io/test/posts/</loc>
+    <loc>https://venkateshdb.github.io/posts/</loc>
     <lastmod>2021-03-02T09:59:26+05:30</lastmod>
   </url><url>
-    <loc>https://venkateshdb.github.io/test/posts/the-first-post/</loc>
+    <loc>https://venkateshdb.github.io/posts/the-first-post/</loc>
     <lastmod>2021-03-02T09:59:26+05:30</lastmod>
   </url><url>
-    <loc>https://venkateshdb.github.io/test/</loc>
+    <loc>https://venkateshdb.github.io/</loc>
     <lastmod>2021-03-02T09:59:26+05:30</lastmod>
   </url><url>
-    <loc>https://venkateshdb.github.io/test/tags/</loc>
+    <loc>https://venkateshdb.github.io/tags/</loc>
   </url>
 </urlset>

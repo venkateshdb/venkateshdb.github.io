@@ -1,4 +1,4 @@
-baseURL = "https://venkateshdb.github.io/test"
+baseURL = "https://venkateshdb.github.io/"
 languageCode = "en-us"
 title = "Venkatesh Bellale"
 theme = "hugo-ink"

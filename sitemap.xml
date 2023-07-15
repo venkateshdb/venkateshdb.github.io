@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://venkateshdb.github.io/test/about/</loc>
+    <lastmod>2021-03-02T14:40:56+05:30</lastmod>
+  </url><url>
+    <loc>https://venkateshdb.github.io/test/posts/</loc>
+    <lastmod>2021-03-02T09:59:26+05:30</lastmod>
+  </url><url>
+    <loc>https://venkateshdb.github.io/test/posts/the-first-post/</loc>
+    <lastmod>2021-03-02T09:59:26+05:30</lastmod>
+  </url><url>
+    <loc>https://venkateshdb.github.io/test/</loc>
+    <lastmod>2021-03-02T09:59:26+05:30</lastmod>
+  </url><url>
+    <loc>https://venkateshdb.github.io/test/tags/</loc>
+  </url>
+</urlset>

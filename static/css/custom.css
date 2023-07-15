@@ -1,0 +1,15 @@
+.site-title a:hover {
+    border-bottom: none;
+    color: black;
+    background-color: none;
+}
+
+a {
+    color: #1975fc;
+}
+
+a:hover {
+    color: black !important;
+    background-color: yellow;
+    border-bottom: 2px solid #1975fc;
+}

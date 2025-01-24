@@ -1,0 +1,68 @@
+
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Venkatesh Bellale"
+theme = "hugo-ink"
+
+copyright = "✍ with ☕ by venkatesh"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+googleAnalytics = "UA-88167404-2"
+
+
+
+[params]
+    avatar = "https://em-content.zobj.net/thumbs/160/openmoji/338/globe-showing-asia-australia_1f30f.png"
+
+    subtitle = "🧠'stroming posts about everything with lots of Emojis 😁"
+
+    mode = "auto"
+
+    featherIconsCDN = true
+
+    customCSS = "css/custom.css"
+
+    disableDisqusTypes = ["page"]
+
+
+
+
+# Nav
+
+[[menu.Main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.Main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.Main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.Main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/venkateshdb"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/venky.be"
+
+
+[taxonomies]
+   tag = "tags"
